@@ -37,3 +37,5 @@ while True:
         b = int(input("masukkan nilai b = "))
         c = pembagian(a,b)
         print(f"Hasil dari pembagian a / b = {c}")
+    else:
+        print("tidak ada pilihan")
